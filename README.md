@@ -6,8 +6,6 @@
 [![npm](https://img.shields.io/npm/dw/node-red-contrib-local-mihome?style=flat-square)](https://www.npmjs.com/package/node-red-contrib-local-mihome)
 [![GitHub](https://img.shields.io/github/license/spongioblast/node-red-contrib-local-mihome?style=flat-square)](https://github.com/spongioblast/node-red-contrib-local-mihome/blob/main/LICENSE)
 
-[![GitHub](https://github.com/spongioblast/node-red-contrib-local-mihome)
-
 Add nodes to get data from and send commands to devices connected to the local network using [node-mihome](https://github.com/spongioblast/node-red-contrib-local-mihome). 
 
 ## Requirements
