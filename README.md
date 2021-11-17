@@ -2,8 +2,8 @@
 
 
 [![platform](https://img.shields.io/badge/platform-Node--RED-red?style=flat-square)](https://nodered.org)
-[![npm](https://img.shields.io/npm/v/node-red-contrib-mihome?style=flat-square)](https://www.npmjs.com/package/node-red-contrib-local-mihome)
-[![npm](https://img.shields.io/npm/dw/node-red-contrib-mihome?style=flat-square)](https://www.npmjs.com/package/node-red-contrib-local-mihome)
+[![npm](https://img.shields.io/npm/v/node-red-contrib-local-mihome?style=flat-square)](https://www.npmjs.com/package/node-red-contrib-local-mihome)
+[![npm](https://img.shields.io/npm/dw/node-red-contrib-local-mihome?style=flat-square)](https://www.npmjs.com/package/node-red-contrib-local-mihome)
 [![GitHub](https://img.shields.io/github/license/spongioblast/node-red-contrib-local-mihome?style=flat-square)](https://github.com/spongioblast/node-red-contrib-local-mihome/blob/main/LICENSE)
 
 [![GitHub](https://github.com/spongioblast/node-red-contrib-local-mihome)
