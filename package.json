@@ -1,16 +1,25 @@
 {
-    "name"         : "node-red-contrib-local-mihome",
-    "version"      : "0.0.3",
-    "license"		 : "GPL-3.0",
-    "description"  : "Add nodes to get data from and send commands to Xiaomi’s MiIO devices connected to the local network using node-mihome.",
-    "dependencies": {
-    		"node-mihome": "0.0.32"
-    },
-    "keywords": [ "node-red" ],
-    "node-red"     : {
-        "nodes": {
-            "getdata": "getdata.js",
-            "sendcommand": "sendcommand.js"
-        }
+  "name": "node-red-contrib-local-mihome",
+  "version": "0.0.3",
+  "license": "GPL-3.0",
+  "description": "Add nodes to get data from and send commands to Xiaomi’s MiIO devices connected to the local network using node-mihome.",
+  "homepage": "https://github.com/spongioblast/node-red-contrib-local-mihome",
+  "dependencies": {
+    "node-mihome": "latest"
+  },
+  "keywords": [
+    "node-red",
+    "xiaomi",
+    "miio"
+  ],
+  "node-red": {
+    "nodes": {
+      "getdata": "getdata.js",
+      "sendcommand": "sendcommand.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spongioblast/node-red-contrib-local-mihome"
+  }
 }
