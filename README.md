@@ -1,4 +1,4 @@
-##node-red-contrib-mihome
+## node-red-contrib-mihome
 
 
 [![platform](https://img.shields.io/badge/platform-Node--RED-red?style=flat-square)](https://nodered.org)
