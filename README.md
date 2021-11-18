@@ -25,10 +25,10 @@ If you want to add device support, you can make a PR or add request in discussio
 
 <img src="https://github.com/spongioblast/node-red-contrib-local-mihome/blob/main/readme/example_config.png?raw=true">
 <img src="https://github.com/spongioblast/node-red-contrib-local-mihome/blob/main/readme/example_command.png?raw=true">
-<img src="https://github.com/spongioblast/node-red-contrib-local-mihome/blob/main/readme/example_response.png">
+<img src="https://github.com/spongioblast/node-red-contrib-local-mihome/blob/main/readme/example_response.png?raw=true">
 
 ## Example flows
 
 Example flows can be downloaded from <a href="https://github.com/spongioblast/node-red-contrib-local-mihome/blob/main/example/local_mihome_flows.json">here</a>.
 
-<img src="https://github.com/spongioblast/node-red-contrib-local-mihome/blob/main/readme/example_flows.png">
+<img src="https://github.com/spongioblast/node-red-contrib-local-mihome/blob/main/readme/example_flows.png?raw=true">
