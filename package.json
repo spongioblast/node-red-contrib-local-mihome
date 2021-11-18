@@ -1,8 +1,10 @@
 {
     "name"         : "node-red-contrib-local-mihome",
-    "version"      : "0.0.1",
-    "description"  : "Add nodes to get data from and send commands to devices connected to the local network using node-mihome.",
+    "version"      : "0.0.2",
+    "license"		 : "GPL-3.0",
+    "description"  : "Add nodes to get data from and send commands to Xiaomi’s MiIO devices connected to the local network using node-mihome.",
     "dependencies": {
+    		"node-mihome": "0.0.32"
     },
     "keywords": [ "node-red" ],
     "node-red"     : {
