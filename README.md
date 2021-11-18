@@ -19,7 +19,7 @@ Run `npm i node-red-contrib-local-mihome` in `~/.node-red` directory or search *
 
 ## Adding device support
 
-If you want to add device support, you can make a PR or add request in discussions. Check [supported devices](https://github.com/maxinminax/node-mihome/blob/master/DEVICES.md) in `node-mihome` package and use node [template](nodes/template) for boost development. Additional information you can find in [contributing guide](CONTRIBUTING.md).
+If you want to add device support, you can make a PR or add request in discussions. Check [supported devices](https://github.com/maxinminax/node-mihome/blob/master/DEVICES.md) in `node-mihome` package.
 
 ## Examples
 
