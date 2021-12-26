@@ -21,6 +21,11 @@ Run `npm i node-red-contrib-local-mihome` in `~/.node-red` directory or search *
 
 If you want to add device support, you can make a PR or add request in discussions of `node-mihome` package. To check which devices are supportet look up [supported devices](https://github.com/maxinminax/node-mihome/blob/master/DEVICES.md) in `node-mihome` package.
 
+## Retrieving device tokens
+
+Check out this guide:
+https://github.com/Maxmudjon/com.xiaomi-miio/blob/master/docs/obtain_token.md
+
 ## Examples
 
 <img src="https://github.com/spongioblast/node-red-contrib-local-mihome/blob/main/readme/example_config.png?raw=true">
