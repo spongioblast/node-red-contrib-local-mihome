@@ -25,6 +25,7 @@ If you want to add device support, you can make a PR or add request in discussio
 
 Check out this guide:
 https://github.com/Maxmudjon/com.xiaomi-miio/blob/master/docs/obtain_token.md
+(Note: Token extraction from the cloud doesn't seem to work for local applications)
 
 ## Examples
 
